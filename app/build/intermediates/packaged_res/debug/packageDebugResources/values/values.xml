@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="priority_high">#F44336</color>
+    <color name="priority_low">#4CAF50</color>
+    <color name="priority_medium">#FFC107</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#5f249f</color>
+    <color name="teal_200">#bcf5f5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Todolistapp</string>
+    <string name="tasks_list_description">List of all tasks</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <style name="Theme.ToDoListApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+    </style>
+</resources>
