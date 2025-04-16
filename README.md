@@ -8,6 +8,8 @@ Task creation with title, description, time, and category
 
 Persistent storage with SQLite
 
+CalendarView for selecting and filtering tasks by date
+
 Reminder notifications using AlarmManager
 
 Splash screen on startup
