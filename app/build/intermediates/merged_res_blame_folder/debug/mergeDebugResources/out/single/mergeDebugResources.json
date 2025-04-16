@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p12.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p12.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p9.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p14.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p14.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\layout_item_task.xml.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p7.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p7.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p2.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p2.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_task.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\task.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_todo_logo.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\todo_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p6.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p6.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p10.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p10.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p4.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p4.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p15.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p15.png"
+    },
+    {
+        "merged": "com.example.todolistapp-debug-32:/layout_activity_add_task.xml.flat",
+        "source": "com.example.todolistapp-main-34:/layout/activity_add_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p1.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p1.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p11.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p11.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p3.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p3.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p8.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p8.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p13.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p13.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_ic_time.xml.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\ic_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p16.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p16.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\menu_category_menu.xml.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\menu\\category_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\layout_activity_add_task.xml.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\layout\\activity_add_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_right.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_input_field_bg.xml.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\input_field_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-debug-32:\\drawable_p5.png.flat",
+        "source": "C:\\Users\\Ayush\\.gradle\\daemon\\8.11.1\\com.example.todolistapp-main-34:\\drawable\\p5.png"
+    }
+]
