@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <EditText
+            android:id="@+id/editTextTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Task Name"
+            android:inputType="textCapSentences"
+            android:textSize="24sp"
+            android:textColor="#000000"
+            android:background="@drawable/input_field_bg"
+            android:padding="12dp" />
+
+        <EditText
+            android:id="@+id/editTextDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="To-Do Task"
+            android:inputType="textMultiLine"
+            android:minLines="3"
+            android:textColor="#000000"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/input_field_bg"
+            android:padding="12dp" />
+
+        <Button
+            android:id="@+id/selectCategoryButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select Category"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="@color/purple_500"
+            android:textColor="#FFFFFF"/>
+
+        <TextView
+            android:id="@+id/categoryTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="No category selected"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_marginTop="10dp" />
+
+        <ImageView
+            android:id="@+id/categoryImage"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/task"
+            android:scaleType="centerCrop"
+            android:contentDescription="Category Image" />
+
+        <Button
+            android:id="@+id/pickTimeButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pick Time"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="@color/purple_500"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/selectedTimeText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="No time selected"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:layout_marginTop="8dp"
+            android:gravity="center" />
+
+        <Button
+            android:id="@+id/saveButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save Task"
+            android:layout_marginTop="12dp"
+            android:backgroundTint="@color/teal_700"
+            android:textColor="#FFFFFF"
+            android:contentDescription="Save Task Button" />
+    </LinearLayout>
+</ScrollView>

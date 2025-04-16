@@ -1,0 +1,17 @@
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Groceryshopping" android:title="Grocery Shopping" />
+    <item android:id="@+id/Laundry" android:title="Laundry" />
+    <item android:id="@+id/Exercise" android:title="Exercise" />
+    <item android:id="@+id/Reading" android:title="Reading" />
+    <item android:id="@+id/Projectdeadlines" android:title="Project Deadlines" />
+    <item android:id="@+id/Meetings" android:title="Meetings" />
+    <item android:id="@+id/Reports" android:title="Reports" />
+    <item android:id="@+id/TeaTime" android:title="TeaTime" />
+    <item android:id="@+id/EatingBreak" android:title="EatingBreak" />
+    <item android:id="@+id/Email" android:title="Email" />
+    <item android:id="@+id/Budgeting" android:title="Budgeting" />
+    <item android:id="@+id/Yoga" android:title="yoga" />
+    <item android:id="@+id/Anniversaries" android:title="Anniversaries" />
+    <item android:id="@+id/WashingClothes" android:title="WashingClothes" />
+    <item android:id="@+id/Eventplanning" android:title="Event Planning" />
+</menu>
